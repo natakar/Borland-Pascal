@@ -1,4 +1,5 @@
-//The task: Find the numbers for which the permutation of the last digit to the beginning increases it N times.
+//The task: Find the numbers for which the permutation of the last digit to the beginning increases it N times. 
+// Job Theme - Cyclic Computational Process.
 
 program Multiplicity;
 
