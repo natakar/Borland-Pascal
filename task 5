@@ -1,0 +1,11 @@
+// --------- Iterative cycles. --------------------
+//The task:  Calculate the values of the functions f1 (x) and f2 (x) for the values of the arguments specified 
+// in the variants of tasks No. 1 - 30 according to the first work.
+// The function f2 (x) is calculated for a number of accuracy. For the specified accuracy e = 10(-2); e = 10(-3); e = (10-4) determine
+// the number N of elements of the series that can be summed to achieve the specified accuracy.
+
+
+
+
+
+nm/
